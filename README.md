@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Welcome to my profile!
 This repository is displaying to someone who used my name as the repository or given link that goes to the company for some reason.
 
-This file will update when I'm done any project and repository.
+This file will be updated when I'm done any project and repository.
 
 ### Current Ongoing
 
@@ -28,4 +28,4 @@ This file will update when I'm done any project and repository.
 
 ### Contact
 
-I will add my mail soon because there is a personal infromation including my privacy. As cracker or hacker, you can find my information quickly cause of leaked information recently. But P L E A S E, don't leak or tell my information to others. I would be blue :(
+I will add the my mail address soon because that has a personal infromation including my privacy. As cracker or hacker, you can find my information quickly cause of leaked information recently. But P L E A S E, don't leak or tell my information to others. I might be blue :(
