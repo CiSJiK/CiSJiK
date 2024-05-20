@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 Welcome to my profile!
 This repository is displaying to someone who used my name as the repository or given link that goes to the company for some reason.
 
-This file will be updated when I'm done any project and repository.
+Portfolio : [다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/2024%EB%85%84%EB%8F%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pptx)
+[보조자료 다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EC%A1%B0%EC%9E%90%EB%A3%8C.zip)
+
 
 ### Contact
 
-I will add the my mail address soon because that has a personal infromation including my privacy. As cracker or hacker, you can find my information quickly cause of leaked information recently. But P L E A S E, don't leak or tell my information to others. I might be blue :(
+Worldwide : sj77007983@gmail.com
+In Republic of Korea : sj77007983@naver.com
