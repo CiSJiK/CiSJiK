@@ -21,6 +21,8 @@ This repository is displaying to someone who used my name as the repository or g
 Portfolio : [다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/2024%EB%85%84%EB%8F%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pptx)
 [보조자료 다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EC%A1%B0%EC%9E%90%EB%A3%8C.zip)
 
+Portfolio-Game_Developing " [다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/%EA%B2%8C%EC%9E%84%EB%B6%84%EC%95%BC%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pptx)
+
 
 ### Contact
 
