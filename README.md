@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 |프로젝트명|프로젝트 내용|
 |---|---|
 |FaceTracking 및 BodyTracking 구현|기간: 2023-03-02~2023-06-21<br>목표: ARKit의 BodyTracking을 통해 구조를 받아 가상 모델에 설정<br>역할: 코드리뷰, Git 관리, 모델 탐색, BodyTracking 파트 전체 구현<br>사용 기술: C#, Unity, IOS ARKit(ARFoundation을 통한 구현), Git<br>느낀점: 애니메이션 시간에서 배워왔던 Body 애니메이션 구조를 직접 경험할 수 있었으며 구현 완료 후 어떻게 이 기술이 쓰일지 고민하는 계기를 가지게 됨.
-|---|---|
 |스마트폰 행동 인식 분류|목표: 스마트폰 센서를 통해 행동 상태 파악<br>역할: 조장, 코드 리뷰, 데이터 분석, 기본 모델링<br>사용 기술: Google Colabatory, Python, Tensorflow, VS Code<br>결과물: [결과물 링크](https://docs.google.com/presentation/d/13c5v1ODDuXGrS02igzl9Svng7VhLS_Xe/edit?usp=sharing&ouid=111639017070073409480&rtpof=true&sd=true)<br>느낀점: 실측 데이터를 직접 처리하면서 실무에는 이런 데이터가 어떻게 쓰이고 게임에서는 어떻게 쓰면 좋을지 생각해보는 계기가 되었음. 그전에 데이터와 타겟의 의미를 잘 확인해야 함을 느낌.|
 *****
 # 중간 정리는 여기까지 입니다. 다채로운 느낌을 주기 어려워서 이런 식으로 작성했어요...
