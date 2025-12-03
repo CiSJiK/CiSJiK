@@ -54,18 +54,14 @@ Here are some ideas to get you started:
    * 대학교에서도 학과 동아리를 통해 Unity를 접할 수 있었으며 캡스톤 디자인 프로젝트인 얼굴 추적 및 신체 추적 프로젝트에서 신체 추적 프로그래밍을 담당하였습니다.
    * 이외에도 수업을 들을 때 게임에는 어떻게 적용할까를 생각하면서 게임 메커니즘에 대한 이해를 높였습니다.
 4. 웹 프로그래밍
-   * KT에서 진행하는 에이블스쿨 8기에서 프론트엔드 내용인 HTML5, CSS, Javascript를 배웠으며 이를 
-
-
-
-
-Portfolio : [다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/2024%EB%85%84%EB%8F%84%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pptx)
-[보조자료 다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EC%A1%B0%EC%9E%90%EB%A3%8C.zip)
-
-Portfolio-Game_Developing : [다운로드](https://github.com/CiSJiK/CiSJiK/raw/main/%EA%B2%8C%EC%9E%84%EB%B6%84%EC%95%BC%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pptx)
-
-
-### Contact
-
-Worldwide : sj77007983@gmail.com
-In Republic of Korea : sj77007983@naver.com
+   * KT에서 진행하는 에이블스쿨 8기에서 프론트엔드 내용인 HTML5, CSS, Javascript를 배웠으며 이를 활용하여 이전에 구현하지 못했던 프론트엔드 사이트를 만들 수 있게 되었습니다.
+   * 별개로 DB를 활용한 Spring Boot 기반 프로젝트가 있습니다.
+*****
+## 주요 포트폴리오
+|프로젝트명|프로젝트 내용|
+|---|---|
+|FaceTracking 및 BodyTracking 구현|기간: 2023-03-02~2023-06-21<br>목표: ARKit의 BodyTracking을 통해 구조를 받아 가상 모델에 설정<br>역할: 코드리뷰, Git 관리, 모델 탐색, BodyTracking 파트 전체 구현<br>사용 기술: C#, Unity, IOS ARKit(ARFoundation을 통한 구현), Git<br>느낀점: 애니메이션 시간에서 배워왔던 Body 애니메이션 구조를 직접 경험할 수 있었으며 구현 완료 후 어떻게 이 기술이 쓰일지 고민하는 계기를 가지게 됨.
+|---|---|
+|스마트폰 행동 인식 분류|목표: 스마트폰 센서를 통해 행동 상태 파악<br>역할: 조장, 코드 리뷰, 데이터 분석, 기본 모델링<br>사용 기술: Google Colabatory, Python, Tensorflow, VS Code<br>결과물: [결과물 링크](https://docs.google.com/presentation/d/13c5v1ODDuXGrS02igzl9Svng7VhLS_Xe/edit?usp=sharing&ouid=111639017070073409480&rtpof=true&sd=true)<br>느낀점: 실측 데이터를 직접 처리하면서 실무에는 이런 데이터가 어떻게 쓰이고 게임에서는 어떻게 쓰면 좋을지 생각해보는 계기가 되었음. 그전에 데이터와 타겟의 의미를 잘 확인해야 함을 느낌.|
+*****
+# 중간 정리는 여기까지 입니다. 다채로운 느낌을 주기 어려워서 이런 식으로 작성했어요...
