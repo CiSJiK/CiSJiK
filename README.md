@@ -5,7 +5,7 @@
     <td>* 희망 직무: Unity 게임 클라이언트 프로그래머 / AI Backend 엔지니어 / 게임 서버 백엔드 프로그래머</td>
   </tr>
   <tr>
-    <td>* 기술 스택: C++, Python, Java, C#, Unity 또는 Unreal, Linux, Azure, MariaDB, Oracle</td>
+    <td>* 기술 스택: C++, Python, Java, C#, Unity 또는 Unreal, Linux, Azure, AWS, MariaDB, Oracle</td>
   </tr>
   <tr>
     <td>* 이외 기술 스택: HTML5, CSS, Javascript, node.js, React, TypeScript</td>
@@ -39,9 +39,7 @@ Here are some ideas to get you started:
  * 이외에도 프로그래밍에만 집중하는 것이 아닌 해당 프로젝트의 도메인 지식을 얻고 이해하고서 의뢰에 맞게 개발하도록 합니다.
 3. 최대한 다른 사람들의 의견을 수용합니다.
  * 프로젝트 결과가 안좋을 수 있는 의견은 이에 대한 반박과 이유, 그리고 설득을 합니다.
- * 저와 다른 의견이 나오더라도 결과에 좋은 영향을 주는 의견은 최대한 수용합니다.
-4. 어느 정도 가공된 쇳덩어리 입니다.
- * 학과에서 배웠던 내용이 방대하고 기반 지식은 어느 정도 있기에 어느 분야에 들어가서 그 분야에 정착할 자신이 있습니다.
+ * 저와 다른 의견이 나오더라도 그 의견을 존중합니다.
 *****
 ## 저는 이러한 기술을 잘 다룹니다.
 1. Linux
@@ -62,5 +60,4 @@ Here are some ideas to get you started:
 |---|---|
 |FaceTracking 및 BodyTracking 구현|기간: 2023-03-02~2023-06-21<br>목표: ARKit의 BodyTracking을 통해 구조를 받아 가상 모델에 설정<br>역할: 코드리뷰, Git 관리, 모델 탐색, BodyTracking 파트 전체 구현<br>사용 기술: C#, Unity, IOS ARKit(ARFoundation을 통한 구현), Git<br>느낀점: 애니메이션 시간에서 배워왔던 Body 애니메이션 구조를 직접 경험할 수 있었으며 구현 완료 후 어떻게 이 기술이 쓰일지 고민하는 계기를 가지게 됨.
 |스마트폰 행동 인식 분류|목표: 스마트폰 센서를 통해 행동 상태 파악<br>역할: 조장, 코드 리뷰, 데이터 분석, 기본 모델링<br>사용 기술: Google Colabatory, Python, Tensorflow, VS Code<br>결과물: [결과물 링크](https://docs.google.com/presentation/d/13c5v1ODDuXGrS02igzl9Svng7VhLS_Xe/edit?usp=sharing&ouid=111639017070073409480&rtpof=true&sd=true)<br>느낀점: 실측 데이터를 직접 처리하면서 실무에는 이런 데이터가 어떻게 쓰이고 게임에서는 어떻게 쓰면 좋을지 생각해보는 계기가 되었음. 그전에 데이터와 타겟의 의미를 잘 확인해야 함을 느낌.|
-*****
-# 중간 정리는 여기까지 입니다. 다채로운 느낌을 주기 어려워서 이런 식으로 작성했어요...
+|도서공유사이트 백엔드 구축<br>서버 구축 및 통합 배포 환경 구성|목표: 도서 생성, 수정 관련 API 개발, AWS CI/CD 환경 구축<br>역할: 백엔드 개발 지휘, DB 개발, AWS 서버 구축 지휘<br>사용 기술: Java, AWS, Linux<br>결과물: [결과물 링크](https://github.com/NoMoreChaos/mini-4th-backend)<br>느낀점: 프론트엔드와 통신을 위한 API 규격을 확실하게 정하고 가야겠다는 생각이 들었으며 초기 구축 단계가 진짜 중요함을 다시 느끼게 되었다.|
