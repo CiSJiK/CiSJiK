@@ -1,7 +1,7 @@
 # 백엔드, 인프라 운용에 전반적으로 힘을 쏟는 김성진 입니다.
 <table padding=5>
   <tr>
-    <td rowspan="3"> <img src="https://github.com/user-attachments/assets/417228fc-bfb3-4be3-9c22-9fca46a493f9"/> </td>
+    <td rowspan="4"> <img src="https://github.com/user-attachments/assets/417228fc-bfb3-4be3-9c22-9fca46a493f9"/> </td>
     <td>* 희망 직무: AI 백엔드 엔지니어 / 클라우드 인프라 엔지니어</td>
   </tr>
   <tr>
